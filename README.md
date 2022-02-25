@@ -4,4 +4,4 @@
 
 ### main.py is just an example on how to run the file twosday.py which contains the alg itself. 
 
-![screenshot example](Screen Shot 2022-02-25 at 9.24.03 AM.png)
+![screenshot example](screen.png)
